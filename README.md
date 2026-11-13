@@ -4,7 +4,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=Erendemirkaynak1&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20%7C%20Artificial%20Intelligence%20%7C%20Automation&descAlignY=60&descSize=14" width="100%" alt="Profile banner" />
 
-  <h3>Developing software and building intelligent, automated solutions.</h3>
+  <h3>Developing software and exploring intelligent, automated technologies.</h3>
 
   <p>
     <a href="https://github.com/Erendemirkaynak1">
@@ -20,16 +20,16 @@
 
 ## 👋 About Me
 
-I'm a software developer working with a broad range of programming languages, frameworks, and database technologies. My interests also include **artificial intelligence, data processing, prompt engineering, machine learning, custom-trained AI models, and automation systems**.
+I'm a software developer interested in a wide range of programming languages, frameworks, and database technologies. My interests also include **artificial intelligence, data processing, prompt engineering, machine learning, custom-trained AI models, and automation systems**.
 
-I enjoy developing software across different areas, working with data, and combining application development with AI-powered and automated solutions.
+I enjoy learning new technologies, improving my technical skills, and exploring how software development, data, and artificial intelligence can work together.
 
 - 💻 **Software Development:** Web, backend, and application development.
 - 🧠 **Artificial Intelligence:** AI technologies, data processing, and machine learning.
 - ✍️ **Prompt Engineering:** Designing and refining prompts for AI systems.
-- 🤖 **Custom AI Models:** Developing and working with specialized, custom-trained AI models.
-- ⚙️ **Automation Systems:** Building automated workflows and systems.
-- 🗄️ **Databases:** Working with SQL and NoSQL database technologies.
+- 🤖 **Custom AI Models:** Exploring specialized, custom-trained AI models.
+- ⚙️ **Automation Systems:** Workflow automation and intelligent processes.
+- 🗄️ **Databases:** SQL and NoSQL database technologies.
 
 ## 🧰 Technologies & Tools
 
@@ -65,34 +65,20 @@ I enjoy developing software across different areas, working with data, and combi
   <img src="https://img.shields.io/badge/Automation%20Systems-Workflow%20Automation-F59E0B?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation systems" />
 </p>
 
-## 🧠 Focus Areas
+## 🧠 Areas of Interest
 
-| Field | Interests |
+| Field | Technologies & Interests |
 | --- | --- |
 | **Web & Software Development** | PHP, HTML, CSS, JavaScript, Node.js, C#, C++, and Java |
 | **Mobile Development** | React Native and Expo |
 | **Backend & Platform Technologies** | Node.js and Supabase |
 | **Database Management** | MySQL, Microsoft SQL Server (MSSQL), and MongoDB |
 | **Artificial Intelligence** | AI technologies and AI-powered applications |
-| **Data Processing** | Processing and working with data for AI-related use cases |
-| **Prompt Engineering** | Prompt design, refinement, and AI interaction workflows |
+| **Data Processing** | Data processing for AI-related use cases |
+| **Prompt Engineering** | Prompt design and AI interaction workflows |
 | **Machine Learning** | Machine learning concepts, models, and applications |
 | **Custom-Trained AI Models** | Specialized models trained or adapted for specific purposes |
-| **Automation Systems** | Workflow automation and intelligent automated processes |
-
-## 🚧 Projects & Development
-
-I focus on applying my skills to practical projects, including software applications, AI-powered solutions, data workflows, and automation systems.
-
-### 📌 Featured Project
-
-#### [Botlands](https://github.com/Erendemirkaynak1/botlands)
-
-A planned desktop control center for managing bots, scripts, and automation tasks from one interface.
-
-**Planned stack:** Electron, Node.js, HTML, CSS, and JavaScript.
-
-> Botlands is currently in its planning and architecture phase.
+| **Automation Systems** | Workflow automation and intelligent processes |
 
 ## 📊 GitHub Statistics
 
@@ -107,10 +93,6 @@ A planned desktop control center for managing bots, scripts, and automation task
 
   **Software Development · Artificial Intelligence · Data Processing · Automation**
 
-  <a href="https://github.com/Erendemirkaynak1?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-  </a>
-
-  <p><sub>Learning, developing, and building practical solutions.</sub></p>
+  <p><sub>Learning, improving, and exploring new technologies.</sub></p>
 
 </div>
