@@ -44,7 +44,9 @@ I work across multiple programming languages and technology stacks, from backend
 ### Backend, Frameworks & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,supabase&perline=7" alt="Node.js, React, Supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,supabase&perline=7" alt="Node.js, React, Supabase" /><br />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
 ### Databases
