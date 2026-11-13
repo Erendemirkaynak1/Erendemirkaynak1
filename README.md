@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/GitHub-Erendemirkaynak1-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
     </a>
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-2563EB?style=for-the-badge&logo=probot&logoColor=white" alt="AI and automation focus" />
-    <img src="https://img.shields.io/badge/Development-Full--Stack-0891B2?style=for-the-badge&logo= visualstudiocode&logoColor=white" alt="Full-stack development" />
+    <img src="https://img.shields.io/badge/Development-Full--Stack-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Full-stack development" />
   </p>
 
 </div>
@@ -44,7 +44,7 @@ I work across multiple programming languages and technology stacks, from backend
 ### Backend, Frameworks & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,reactnative,expo,supabase&perline=7" alt="Node.js, React, React Native, Expo, Supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,supabase&perline=7" alt="Node.js, React, Supabase" />
 </p>
 
 ### Databases
@@ -60,7 +60,7 @@ I work across multiple programming languages and technology stacks, from backend
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Machine%20Learning-ML-0F766E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-LLM%20Workflows-4F46E5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/Automation-Systems-F59E0B?style=for-the-badge&logo= Zapier&logoColor=white" alt="Automation Systems" />
+  <img src="https://img.shields.io/badge/Automation-Systems-F59E0B?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation Systems" />
 </p>
 
 ## 🧠 Areas of Interest
