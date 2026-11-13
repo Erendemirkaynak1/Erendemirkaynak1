@@ -80,13 +80,6 @@ I enjoy learning new technologies, improving my technical skills, and exploring 
 | **Custom-Trained AI Models** | Specialized models trained or adapted for specific purposes |
 | **Automation Systems** | Workflow automation and intelligent processes |
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Erendemirkaynak1&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erendemirkaynak1&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</div>
-
 ---
 
 <div align="center">
